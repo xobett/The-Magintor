@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6e71a589ae84684aa75a772c98de29e, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 2865007600159539790, guid: 52cd346ba936dc14fbebf1995c09b445,
+    type: 3}
+  itemName: Key
+  itemDescription: Opens the first level's door.
